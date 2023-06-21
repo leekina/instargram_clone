@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40497223906",
+    "project_id": "instagram-clone-ekina",
+    "storage_bucket": "instagram-clone-ekina.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40497223906:android:7081521620a697d54ce6bb",
+        "android_client_info": {
+          "package_name": "com.example.instargram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40497223906-kf9r88aploci4d88ejgluksd3t36tspi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNKzsj0jF_PEfD6NhYTgbcQAI9SBUAzw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40497223906-kf9r88aploci4d88ejgluksd3t36tspi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
